@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on decarbonization of ICE technologies by developing and investigating
+- 🔭 I’m currently working on decarbonization of ICE technologies using large scale numerical simulations.
 - 🌱 I’m currently learning about Machine Learning models and how they can be applied to CFD problems.
 - 👯 I’m looking to collaborate on CFD model development (in particular in OpenFOAM and ML applications).
 - 📫 You can reach me at btekgul@anl.gov, or browse [my personal webpage](https://blttkgl.github.io) for further information and my CV.
